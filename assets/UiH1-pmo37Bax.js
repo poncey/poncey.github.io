@@ -1,0 +1,1 @@
+import{a as e,d as t,g as n,l as r,p as i,r as a,s as o}from"./index-Dxobamrj.js";var s={name:`UiH1`,props:{text:String}},c={class:`relative`};function l(a,s,l,u,d,f){return t(),o(`div`,c,[e(`h1`,null,[i(a.$slots,`default`,{},()=>[r(n(l.text),1)])]),s[0]||=e(`div`,{class:`absolute bottom-0 left-0 w-full h-0.5 bg-gray-400`},null,-1)])}var u=a(s,[[`render`,l]]);export{u as t};
